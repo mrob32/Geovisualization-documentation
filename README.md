@@ -17,4 +17,4 @@ A step by step series of examples that tell you how to get a Geovisualization pr
 > pip install [example]
 
 and then
->> [another example]
+> [another example]

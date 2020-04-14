@@ -8,7 +8,7 @@ set up process in order to use the program and show you how to implement geovisu
 ## Table of Contents
 1. Getting Started
    - Prequisites [Link](https://github.com/mrob32/Geovisualization-documentation/blob/master/README.md#prerequisites)
-   - Installation [Link] 
+   - Installation [Link](https://github.com/mrob32/Geovisualization-documentation/blob/master/README.md#installing)
    - ...
 
 
@@ -24,3 +24,17 @@ A step by step series of examples that tell you how to get a Geovisualization pr
 
 and then
 > [another example]
+
+```
+# code block
+@as_chan
+        def thermo(chan, unit):
+            while True:
+                yield chan.put(convert(thermo_get(), unit))
+
+        @coroutine
+        def main():
+            thermo_chan = thermo('C')
+            while True:
+                print((yield thermo_chan.get()))  # prints current temperature
+```

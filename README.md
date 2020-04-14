@@ -5,6 +5,12 @@ set up process in order to use the program and show you how to implement geovisu
 
 ## Description
 
+## Table of Contents
+1. Getting Started
+2. Prequisites
+3. Installation
+4. ...
+
 
 ## Getting Started
 

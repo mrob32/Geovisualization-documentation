@@ -1,4 +1,1 @@
 # Geovisualization-documentation
-  ==============================
-  
- 

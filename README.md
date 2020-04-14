@@ -7,8 +7,8 @@ set up process in order to use the program and show you how to implement geovisu
 
 ## Table of Contents
 1. Getting Started
-   - Prequisites [Link]
-   - Installation
+   - Prequisites [Link](https://github.com/mrob32/Geovisualization-documentation/blob/master/README.md#prerequisites)
+   - Installation [Link] 
    - ...
 
 

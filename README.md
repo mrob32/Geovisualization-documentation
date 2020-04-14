@@ -13,3 +13,7 @@ set up process in order to use the program and show you how to implement geovisu
 
 
 ### Installing
+A step by step series of examples that tell you how to get a Geovisualization program running
+>> pip install [example]
+and then
+>> [another example]
